@@ -47,7 +47,7 @@ git clone https://github.com/your-username/learning_genai_by_langchain.git
 cd learning_genai_by_langchain
 ```
 
-### 🐍 2. Create & Activate Virtual Environment
+###  2. Create & Activate Virtual Environment
 
 ```bash
 python -m venv langchain-env
@@ -55,13 +55,13 @@ python -m venv langchain-env
 # source langchain-env/bin/activate  # On Linux/Mac
 ```
 
-### 📦 3. Install Dependencies
+###  3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 🔐 4. Setup `.env` file
+###  4. Setup `.env` file
 
 Create a `.env` file in the root folder with the following:
 
@@ -76,7 +76,7 @@ HUGGINGFACE_ACESS_TOKEN=your_HF_acess_token
 ## 🧑‍💻 Author
 
 **Biswajit Nahak**  
-> Final-year student | B.Tech ETC @IIIT BBSR
+> B.Tech | Final-year ETC | @IIIT BBSR
 
 ---
 
