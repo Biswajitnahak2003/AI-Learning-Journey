@@ -1,0 +1,14 @@
+# Virtual Environment
+f-api-env/
+
+# Python cache
+__pycache__/
+
+# VS Code specific settings
+.vscode/
+
+# Environment variables
+.env
+
+# Other Python artifacts
+*.pyc
